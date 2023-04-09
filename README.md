@@ -3,18 +3,8 @@ Dicas de TI do básico ao avançando.
 
 Escolha o sistema Operacional:
 
-<details>
-	<summary>
-		WINDOWS
-	</summary>
-
-	<a href="/Windows/DicasWindows.md">oi</a>
-
-	This site was built using [GitHub Pages](https://pages.github.com/)
-
-</details>
-
-This site was built using [GitHub Pages](https://pages.github.com/)
+##WINDOWS
+[Dicas Windows](/Windows/DicasWindows.md)
 
 ## Linux
 [Dicas Linux](/Windows/DicasWindows.md)
