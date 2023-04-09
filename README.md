@@ -6,8 +6,6 @@ Escolha o sistema Operacional:
 <details>
 	<summary>
 		WINDOWS
-
-		[Dicas Windows](/Windows/DicasWindows.md)
 	</summary>
 
 	<link>[Dicas Windows](/Windows/DicasWindows.md)oi</link>
