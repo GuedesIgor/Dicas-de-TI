@@ -9,5 +9,10 @@ Escolha o sistema Operacional:
 ## Linux
 [Dicas Linux](/Windows/DicasWindows.md)
 
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
 
 
