@@ -9,6 +9,7 @@ Escolha o sistema Operacional:
 	</summary>
 
 	<a href="/Windows/DicasWindows.md">oi</a>
+	This site was built using [GitHub Pages](https://pages.github.com/)
 </details>
 
 ## Linux
