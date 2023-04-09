@@ -1,10 +1,13 @@
 # Dicas de TI
-## DICAS 2
-### DICAS 3
-#### [WINDOWS](/Windows/DicasWindows.md)
-
 Dicas de TI do básico ao avançando.
 
-./oi
+Escolha o sistema Operacional:
 
-[WINDOWS](Windows/Dicas Windows.md)
+## Windows
+[Dicas Windows](/Windows/DicasWindows.md)
+
+## Linux
+[Dicas Linux](/Windows/DicasWindows.md)
+
+
+
