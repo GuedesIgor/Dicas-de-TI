@@ -20,6 +20,7 @@ Escolha o sistema Operacional:
 <summary>My top THINGS-TO-RANK</summary>
 
 >YOUR TABLE
+
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|               |
