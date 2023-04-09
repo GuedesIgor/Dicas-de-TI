@@ -3,8 +3,12 @@ Dicas de TI do básico ao avançando.
 
 Escolha o sistema Operacional:
 
-## Windows
-[Dicas Windows](/Windows/DicasWindows.md)
+<details>
+	<summary>
+		## Windows
+		[Dicas Windows](/Windows/DicasWindows.md)
+	</summary>
+</details>
 
 ## Linux
 [Dicas Linux](/Windows/DicasWindows.md)
