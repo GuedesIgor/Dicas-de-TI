@@ -5,4 +5,6 @@
 
 Dicas de TI do básico ao avançando.
 
+./oi
+
 [WINDOWS](Windows/Dicas Windows.md)
