@@ -8,7 +8,7 @@ Escolha o sistema Operacional:
 		WINDOWS
 	</summary>
 
-	<link>[Dicas Windows](/Windows/DicasWindows.md)oi</link>
+	<a href="/Windows/DicasWindows.md">oi</a>
 </details>
 
 ## Linux
