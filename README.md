@@ -3,9 +3,9 @@ Dicas de TI do básico ao avançando.
 
 Escolha o sistema Operacional:
 
-##<details>
+<details>
 	<summary>
-		## Windows
+		WINDOWS
 	</summary>
 	[Dicas Windows](/Windows/DicasWindows.md)
 </details>
