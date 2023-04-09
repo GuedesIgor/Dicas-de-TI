@@ -6,8 +6,8 @@ Escolha o sistema Operacional:
 ##<details>
 	<summary>
 		## Windows
-		[Dicas Windows](/Windows/DicasWindows.md)
 	</summary>
+	[Dicas Windows](/Windows/DicasWindows.md)
 </details>
 
 ## Linux
