@@ -7,7 +7,9 @@ Escolha o sistema Operacional:
 	<summary>
 		WINDOWS
 	</summary>
+
 	[Dicas Windows](/Windows/DicasWindows.md)
+
 </details>
 
 ## Linux
